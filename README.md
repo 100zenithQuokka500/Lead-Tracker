@@ -43,13 +43,13 @@ Click on SAVE TAB to save the current tab's URL.
 ### Delete:
 Double click on DELETE button to delete the leads.
 
-## Demo
 
-Demo Video:
+## Preview:
 
-https://github.com/H1mang1/Lead-Tracker/assets/123282807/c1f1251b-0073-483a-9f3e-622ca8a521bf
+![Screenshot 2024-07-07 205201](https://github.com/H1mang1/Lead-Tracker/assets/123282807/8bf43d85-d558-4460-adcf-d912f9b64acf)
 
 
+![Screenshot (273)](https://github.com/H1mang1/Lead-Tracker/assets/123282807/799a02d1-7692-49c8-b4e6-6ac8c9c1ceee)
 
 
 
