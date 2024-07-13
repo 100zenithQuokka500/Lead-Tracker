@@ -1,5 +1,5 @@
 # Lead Tracker
-Lead Tracker is a simple tool designed to help you save and manage URLs of websites. This project is useful for anyone who needs to keep track of important links, whether for business leads, research, or personal use.
+Lead Tracker is a simple chrome extension designed to help you save and manage URLs of websites. This project is useful for anyone who needs to keep track of important links, whether for business leads, research, or personal use.
 
 ## Features
 <li><b>Save URLs</b> : Easily save URLs of websites you want to track.
